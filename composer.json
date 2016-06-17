@@ -1,0 +1,16 @@
+{
+  "name": "etdsolutions/notifyjs",
+  "type": "library",
+  "minimum-stability": "dev",
+  "description": "Shim repository for notifyjs",
+  "homepage": "https://notifyjs.com/",
+  "authors": [
+    {
+      "name": "Jaime Pillora",
+      "email": "dev@jpillora.com"
+    }
+  ],
+  "require": {
+    "etdsolutions/jquery": "~1.0|~2.0"
+  }
+}
